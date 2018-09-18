@@ -1,0 +1,24 @@
+{
+  "name": "aigisbot",
+  "version": "1.0.0",
+  "description": "Aigis, as a discord bot",
+  "main": "AigisBot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lhavik/aigisbot.git"
+  },
+  "author": "Lhavik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lhavik/aigisbot/issues"
+  },
+  "homepage": "https://github.com/Lhavik/aigisbot#readme"
+}
